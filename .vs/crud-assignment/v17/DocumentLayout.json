@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\dbcontext\\trainertraineedbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:dbcontext\\trainertraineedbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:model\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\crud-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:crud-assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718054210_tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718054210_tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718053527_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718053527_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240716183027_elsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240716183027_elsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TraineesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TraineesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|c:\\xampp\\htdocs\\githubtraining\\crud-assignment\\migrations\\20240718091617_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4E261E-71B9-4CB3-B012-9A7D6C8200A4}|crud-assignment.csproj|solutionrelative:migrations\\20240718091617_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "crud-assignment.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\crud-assignment.csproj",
+              "RelativeDocumentMoniker": "crud-assignment.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\crud-assignment.csproj*",
+              "RelativeToolTip": "crud-assignment.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T15:20:09.039Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\Trainee.cs",
+              "RelativeDocumentMoniker": "model\\Trainee.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\Trainee.cs",
+              "RelativeToolTip": "model\\Trainee.cs",
+              "ViewState": "AQIAAAsAAADA/////38vwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:26:40.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineeController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Controllers\\TraineeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:21:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerTraineeDBSet.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\DBContext\\TrainerTraineeDBSet.cs",
+              "RelativeDocumentMoniker": "DBContext\\TrainerTraineeDBSet.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\DBContext\\TrainerTraineeDBSet.cs",
+              "RelativeToolTip": "DBContext\\TrainerTraineeDBSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:31:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T15:16:17.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:18:32.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240718054210_tableg.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718054210_tableg.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240718054210_tableg.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718054210_tableg.cs",
+              "RelativeToolTip": "Migrations\\20240718054210_tableg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:42:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "Controllers\\TrainersController.cs",
+              "ViewState": "AQIAAC4AAAAA/jIzMzPzvz0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:54:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240718091617_tables.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718091617_tables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240718091617_tables.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718091617_tables.cs",
+              "RelativeToolTip": "Migrations\\20240718091617_tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:16:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240718053527_table.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718053527_table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240718053527_table.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240718053527_table.cs",
+              "RelativeToolTip": "Migrations\\20240718053527_table.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:35:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\Trainer.cs",
+              "RelativeDocumentMoniker": "model\\Trainer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\model\\Trainer.cs",
+              "RelativeToolTip": "model\\Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:21:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TraineesController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TraineesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineesController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\TraineesController.cs",
+              "RelativeToolTip": "Controllers\\TraineesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:53:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240716183027_elsh.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240716183027_elsh.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240716183027_elsh.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Migrations\\20240716183027_elsh.cs",
+              "RelativeToolTip": "Migrations\\20240716183027_elsh.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:30:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\githubtraining\\crud-assignment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:58:14.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
